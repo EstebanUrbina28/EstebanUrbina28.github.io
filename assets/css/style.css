@@ -325,10 +325,12 @@ section {
   background: #149ddd;
   bottom: 0;
   left: 0;
+
 }
 
 .section-title p {
   margin-bottom: 0;
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
@@ -420,11 +422,15 @@ section {
 /*--------------------------------------------------------------
 # Akills
 --------------------------------------------------------------*/
+
+
+
 .skills .progress {
   height: 60px;
   display: block;
   background: none;
   border-radius: 0;
+  
 }
 
 .skills .progress .skill {
